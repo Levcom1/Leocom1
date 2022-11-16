@@ -4,7 +4,7 @@
 ## My name is Lev Komissarov
 ### I'm novice programmer
 - I can make websites on C++ [here](https://github.com/)
-- I'm learning Python [here](https://github.com/)
+- I'm learning Python [here](https://github.com/Levcom1/Quiz_game)
 - I'm learning how to do Telegram Bots on Python [here](https://github.com/)
 
 ### I'm always want to hear from you recomendations and opinions about my projects
