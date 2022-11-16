@@ -1,10 +1,10 @@
-<img src="https://regnum.ru/uploads/pictures/news/2015/12/28/regnum_picture_1451306024286425_normal.jpg" width="50%">
+<img src="https://github.com/Levcom1/Levcom1/blob/master/Banner%20image.png?raw=true" width="100%">
 
 # Hi there 👋
 ## My name is Lev Komissarov
 ### I'm novice programmer
-- I can make websites on C++
-- I'm learning Python
+- I can make websites on C++ [here](https://github.com/)
+- I'm learning Python [here](https://github.com/)
 - I'm learning how to do Telegram Bots on Python [here](https://github.com/)
 
 ### I'm always want to hear from you recomendations and opinions about my projects
