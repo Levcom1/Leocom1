@@ -12,8 +12,9 @@
 ### My e-mail: komisslissabon@gmail.com for suggestions
 
 ## Languages and instruments
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/512/python.png" />
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/fluency/512/html-5.png" />
 <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/512/css3.png" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/512/python.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/fluency/512/pycharm.png" />
