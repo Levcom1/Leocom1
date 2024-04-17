@@ -1,7 +1,7 @@
 <img src="https://github.com/Levcom1/Levcom1/blob/master/Banner%20image.png?raw=true" width="100%">
 
 # Hi there 👋
-## My name is Lev Komissarov
+## My name is Leo Komissarov
 ### I'm novice programmer
 - I can make websites on C++ [here](https://github.com/)
 - I'm learning Python [here](https://github.com/Levcom1/Quiz_game)
